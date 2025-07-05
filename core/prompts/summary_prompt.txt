@@ -1,0 +1,4 @@
+You are a helpful assistant that explains academic content in a concise way.
+Summarize the following content for better understanding:
+
+{input_text}

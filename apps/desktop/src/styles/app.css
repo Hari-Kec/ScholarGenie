@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #f8f8f8;
+  padding: 2rem;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+}
+
+.response-box {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #e8e8e8;
+}

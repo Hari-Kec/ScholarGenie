@@ -1,0 +1,59 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python egg
+*.egg-info/
+dist/
+build/
+
+# VSCode settings (optional)
+.vscode/
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Model & data
+models/
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+
+# PDFs and extracted data
+data/input_pdfs/
+data/extracted_text/
+data/*.sqlite
+
+# Hugging Face cache
+~/.cache/huggingface/
+.cache/
+huggingface/
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# LangChain / Chroma
+*.db
+chroma_db/
+
+# Jupyter (if ever used)
+.ipynb_checkpoints/
+
+# Pytest or test artifacts
+htmlcov/
+coverage.*
+.cache/
+pytest_cache/

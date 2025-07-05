@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+langchain
+fitz
+pytesseract
+pillow
+chromadb
+sentence-transformers
+PyMuPDF
+python-multipart
+kagglehub
+
